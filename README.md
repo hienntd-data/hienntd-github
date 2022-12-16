@@ -24,7 +24,7 @@
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a> 
   
-  <a href="https://www.kaggle.com/nguyenhuynhminhtien" alt="Kaggle" target="_blank" >
+  <a href="https://www.kaggle.com/hinnguynthdiu " alt="Kaggle" target="_blank" >
     <img src="https://img.icons8.com/windows/48/000000/kaggle.png"/>
   </a>
   <a href="mailto:hienntd.02@gmail.com" alt="Email">
