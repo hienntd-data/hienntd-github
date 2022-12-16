@@ -14,7 +14,7 @@
 [![Join the chat at https://gitter.im/hienntd-github/Github-Profile-Tutorial](https://badges.gitter.im/hienntd-github/Github-Profile-Tutorial.svg)](https://gitter.im/hienntd-github/Github-Profile-Tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 <p align="center">
-  <a href="www.linkedin.com/in/hien-ntd" target="_blank">
+  <a href="www.linkedin.com/in/hien-ntd" alt="Linkedin">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
   </a>
   <a href="https://www.facebook.com/ntdh.3122" alt="Facebook">
