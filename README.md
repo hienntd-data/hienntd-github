@@ -47,7 +47,7 @@
 
 <img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
 
-- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Data Engineering, Big Data, and Machine Learning on GCP](https://www.coursera.org/account/accomplishments/certificate/XFNU3UXCK5DG)
+- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Data Engineering, Big Data, and Machine Learning on GCP](https://coursera.org/share/d43ea120042d8e467eab0e5d54b1748c)
 - [![KAGGLE](https://img.shields.io/badge/-KAGGLE-blue) Advanced SQL](https://www.kaggle.com/learn/certification/hinnguynthdiu/advanced-sql)
 - [![UDEMY](https://img.shields.io/badge/-UDEMY-purple) AWS Services for Solutions Architect Associate [2023]](https://www.udemy.com/certificate/UC-43a23468-3d0a-4296-b1ba-9408a0112498/)
 - [![KAGGLE](https://img.shields.io/badge/-KAGGLE-blue) Intro to Deep Learning](https://www.kaggle.com/learn/certification/hinnguynthdiu/intro-to-deep-learning)
